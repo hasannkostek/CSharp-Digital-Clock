@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Dijital Saat Uygulaması\Dijital Saat Uygulaması\bin\Debug\Dijital Saat Uygulaması.exe.config
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Dijital Saat Uygulaması\Dijital Saat Uygulaması\bin\Debug\Dijital Saat Uygulaması.exe
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Dijital Saat Uygulaması\Dijital Saat Uygulaması\bin\Debug\Dijital Saat Uygulaması.pdb
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Dijital Saat Uygulaması\Dijital Saat Uygulaması\obj\Debug\Dijital Saat Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Dijital Saat Uygulaması\Dijital Saat Uygulaması\obj\Debug\Dijital_Saat_Uygulaması.Form1.resources
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Dijital Saat Uygulaması\Dijital Saat Uygulaması\obj\Debug\Dijital_Saat_Uygulaması.Properties.Resources.resources
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Dijital Saat Uygulaması\Dijital Saat Uygulaması\obj\Debug\Dijital Saat Uygulaması.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Dijital Saat Uygulaması\Dijital Saat Uygulaması\obj\Debug\Dijital Saat Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Dijital Saat Uygulaması\Dijital Saat Uygulaması\obj\Debug\Dijital Saat Uygulaması.exe
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Dijital Saat Uygulaması\Dijital Saat Uygulaması\obj\Debug\Dijital Saat Uygulaması.pdb
